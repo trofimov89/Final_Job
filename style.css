@@ -52,3 +52,7 @@ img{
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
+.card {
+      border: 1px solid grey !important;
+}
